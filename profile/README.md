@@ -26,6 +26,15 @@
 
 </div>
 
+- ### 📖 Some of our Open Source stuff...
+  - [**👨‍💻 NovaCore**](https://github.com/NovaUniverse/NovaCore)
+    > Our core plugin with useful features to make our plugins with less code and better compatibility between mc versions.
+
+  - [**🐍 NovaUniverse.py**](https://github.com/NovaUniverse/NovaUniverse.py)
+    > A modern & maintained wrapper for the Nova Universe API written in Python.
+    
+  - ``<feel free to add more of your projects here>``
+
 <br>
 
 > #### More about me coming soon... 😴
