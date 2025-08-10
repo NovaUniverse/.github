@@ -32,8 +32,6 @@
 
   - [**🐍 NovaUniverse.py**](https://github.com/NovaUniverse/NovaUniverse.py)
     > A modern & maintained wrapper for the Nova Universe API written in Python.
-    
-  - ``<feel free to add more of your projects here>``
 
 <br>
 
